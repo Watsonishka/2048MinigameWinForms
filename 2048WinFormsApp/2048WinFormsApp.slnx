@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="2048ClassLibrary/2048ClassLibrary.csproj" Id="a8c6e3b7-a41d-4025-9151-cdfb8982b727" />
+  <Project Path="2048WinFormsApp/2048WinFormsApp.csproj" />
+</Solution>

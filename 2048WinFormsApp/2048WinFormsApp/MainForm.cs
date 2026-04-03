@@ -13,7 +13,7 @@ namespace _2048WinFormsApp
         {
             InitializeComponent();
             this.user = user;
-        }
+        } 
         private void MainForm_Load(object sender, EventArgs e)
         {
             StartNewGame();

@@ -19,7 +19,7 @@
 ## 🚀 Возможности
 
 - 👤 Регистрация пользователя
-- 
+
 ![рег](https://github.com/user-attachments/assets/fc291173-58ed-4597-9102-476024c0caca)
 
 Перед началом игры игрок вводит своё имя. Разрешены только буквы русского алфавита, пробел, тире и апостроф. Программа обрабатывает пользовательский ввод, заменяя заглавные буквы на строчные (кроме первой буквы каждого слова), убирает лишние знаки, оставляя  самый первый символ.
@@ -62,7 +62,7 @@
 
 - 💾 Сохранение лучшего результов в JSON и чтение рекорда игры
   
-- <img width="1035" height="511" alt="image" src="https://github.com/user-attachments/assets/af6b056e-f8a6-4f8d-a687-ebc8cb797866" />
+<img width="1035" height="511" alt="image" src="https://github.com/user-attachments/assets/af6b056e-f8a6-4f8d-a687-ebc8cb797866" />
 
 <img width="536" height="312" alt="image" src="https://github.com/user-attachments/assets/426f877f-3e9b-4551-8598-6772419710e0" />
 
